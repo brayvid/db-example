@@ -1,7 +1,9 @@
 # MongoDB Interface
 
-[View the Heroku app](http://mongodb-interface.herokuapp.com/)
+### Heroku app to add name/email pairs to a persistent cloud database
 
-[View database](http://mongodb-interface.herokuapp.com/registrations)
+[View the app](http://mongodb-interface.herokuapp.com/)
+
+[View registrations](http://mongodb-interface.herokuapp.com/registrations)
 - **user**: blake
 - **pass**: 10012
